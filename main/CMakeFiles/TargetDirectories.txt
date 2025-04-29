@@ -1,0 +1,5 @@
+C:/Users/Aluno/Documents/GitHub/LAB03/main/CMakeFiles/main.dir
+C:/Users/Aluno/Documents/GitHub/LAB03/main/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/GitHub/LAB03/main/CMakeFiles/rebuild_cache.dir
+C:/Users/Aluno/Documents/GitHub/LAB03/main/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/GitHub/LAB03/main/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
