@@ -22,3 +22,5 @@
 2315	2899	7675894660750912	CMakeFiles/main.dir/Core/Src/system_stm32f4xx.c.obj	e96e0dcce4b04c13
 2449	3032	7675894662058474	CMakeFiles/main.dir/Core/Src/syscalls.c.obj	b64c9abc8bead4be
 4	220	7675897602012590	main.elf	709c212c10a2f47
+8	273	7675911662484206	CMakeFiles/main.dir/Core/Src/main.c.obj	475340b86d39b193
+274	482	7675911664464349	main.elf	709c212c10a2f47
